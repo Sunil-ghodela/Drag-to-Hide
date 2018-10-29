@@ -76,7 +76,7 @@ export default class Draggable extends Component<Props, State> {
 const CIRCLE_RADIUS = 30;
 const styles = StyleSheet.create({
   circle: {
-    backgroundColor: 'skyblue',
+    backgroundColor: 'blue',
     width: CIRCLE_RADIUS * 2,
     height: CIRCLE_RADIUS * 2,
     borderRadius: CIRCLE_RADIUS,
